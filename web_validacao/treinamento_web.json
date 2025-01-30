@@ -1,0 +1,21 @@
+{
+    "treinamentos": [
+        {
+            "data": "2025-01-01",
+            "informacoes": [
+                {
+                    "pergunta": "Qual é a capital do Brasil?",
+                    "resposta": "A capital do Brasil é Brasília.",
+                    "fonte": "https://www.wikipedia.org",
+                    "validade": "verdadeira"
+                },
+                {
+                    "pergunta": "Quem descobriu o Brasil?",
+                    "resposta": "O Brasil foi descoberto por Cristóvão Colombo.",
+                    "fonte": "https://www.exemplo-falso.com",
+                    "validade": "falsa"
+                }
+            ]
+        }
+    ]
+}
