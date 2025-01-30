@@ -1,0 +1,16 @@
+{
+    "treinamentos": [
+        {
+            "data": "2025-01-01",
+            "informacoes": [
+                "Treinamento 1 - Pergunta: O que é IA? Resposta: IA é Inteligência Artificial."
+            ]
+        },
+        {
+            "data": "2026-01-01",
+            "informacoes": [
+                "Treinamento 2 - Pergunta: O que é aprendizado de máquina? Resposta: É uma técnica que ensina a IA a aprender com dados."
+            ]
+        }
+    ]
+}
